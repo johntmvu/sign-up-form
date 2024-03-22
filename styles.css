@@ -6,6 +6,8 @@
   }
 
 
+
+
 button {
     border: none;
     color: inherit;
@@ -58,6 +60,8 @@ a:hover {
 
 .logoBackground p {
     color: white;
+    font-family: 'Neucha', Arial, Helvetica, sans-serif;
+    font-size: 4rem;
 }
 
 .right {
